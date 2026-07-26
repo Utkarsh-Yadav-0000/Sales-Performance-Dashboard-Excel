@@ -55,10 +55,17 @@ The dashboard demonstrates data cleaning, Pivot Tables, Pivot Charts, Slicers, c
 ## Dataset
 
 This project uses the **Superstore** dataset containing **9,994 rows and 21 columns**.
+
 **Source:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ---
 
 ## Preview
 
+## Pivot Tables
 
+![Pivot Tables](pivot_tables.png)
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
